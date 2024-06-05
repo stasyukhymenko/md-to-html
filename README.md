@@ -20,7 +20,7 @@ node index.js <your_file.md>
 If you need to write the converted md syntax to an html file, you need to specify the --out flag, as shown in the example below:
 
 ```
-node index.js --out <output.html> --out <your_file.md>
+node index.js --out <your_file.md> <output.html> 
 ```
 
 ### Example:
